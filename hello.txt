@@ -1,2 +1,9 @@
 hi
+<<<<<<< Updated upstream
 git lab!
+=======
+git lab!
+it's amazing!
+
+>>>>>>> Stashed changes
+Good morning!
